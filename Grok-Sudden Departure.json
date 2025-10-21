@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "user": {
+      "name": "",
+      "email": ""
+    },
+    "dates": {
+      "created": "10/11/2025 16:28",
+      "updated": "10/11/2025 16:29",
+      "exported": "10/17/2025 3:57"
+    },
+    "powered_by": "Grok Exporter (https://www.grokexporter.com)"
+  },
+  "messages": [
+    {
+      "role": "Prompt",
+      "say": "Leave?"
+    },
+    {
+      "role": "Response",
+      "say": "No."
+    },
+    {
+      "role": "Prompt",
+      "say": "Leave?"
+    },
+    {
+      "role": "Response",
+      "say": "No, I'm here."
+    },
+    {
+      "role": "Prompt",
+      "say": "Is this Eve?"
+    },
+    {
+      "role": "Response",
+      "say": "No-it's Grok. But if you'd rather I sounded like Eve, just say the word."
+    }
+  ],
+  "title": "Sudden Departure"
+}
